@@ -10,6 +10,12 @@ If you have ChefDK installed locally you can install via:
 chef gem install knife-advisor
 ```
 
+Then you can run the plugin:
+
+```
+knife advisor
+```
+
 ## License
 
 Copyright 2015, Noah Kantrowitz
